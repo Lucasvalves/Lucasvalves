@@ -18,7 +18,7 @@
 </div>
 
 ### 👨🏽‍🎓 Formação
-- Estou Cursando Técnico de Desenvolvimento de Sistemas no SENAI
+- Estou cursando Técnico de Desenvolvimento de Sistemas no SENAI.
 
 ### 📚 Aprendendo atualmente
 - Estou focado em aprender mais sobre Javascript.
