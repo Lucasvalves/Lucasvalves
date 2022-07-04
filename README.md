@@ -18,7 +18,8 @@
 </div>
 
 ### 👨🏽‍🎓 Formação
-- Estou cursando Técnico de Desenvolvimento de Sistemas no SENAI.
+- Cursando Técnico de Desenvolvimento de Sistemas no SENAI
+- Graduando em Sistemas de Informação na Unifacs.
 
 ### 📚 Aprendendo atualmente
 - Estou focado em aprender mais sobre Javascript.
