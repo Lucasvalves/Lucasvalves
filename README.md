@@ -24,5 +24,5 @@
 - Graduando em Sistemas de Informação na Unifacs.
 
 ### 📚 Aprendendo atualmente
-- Atualmente estou focado em aprender mais sobre Python e MySQL.
+- Estou focado em aprender mais sobre Python e MySQL.
 
