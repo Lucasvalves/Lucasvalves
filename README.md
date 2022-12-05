@@ -23,7 +23,7 @@
 </div>
 
 ### 👨🏽‍🎓 Formação
-- Cursando Técnico de Desenvolvimento de Sistemas no SENAI
+- Técnico de Desenvolvimento de Sistemas
 - Graduando em Sistemas de Informação na Unifacs.
 
 ### 📚 Aprendendo atualmente
