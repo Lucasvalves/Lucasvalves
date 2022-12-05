@@ -20,7 +20,7 @@
 </div>
 
 ### 👨🏽‍🎓 Formação
-- Técnico de Desenvolvimento de Sistemas
+- Técnico em Desenvolvimento de Sistemas
 - Graduando em Sistemas de Informação na Unifacs.
 
 ### 📚 Aprendendo atualmente
