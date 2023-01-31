@@ -29,14 +29,14 @@
 </div>
 
 
-
+##
 ### Formação
 
 - Técnico em Desenvolvimento de Sistemas
 - Graduando em Sistemas de Informação.
 
 
-
+##
 ### Aprendendo atualmente
 
 - Estou focado em aprender mais sobre Python e MySQL.
