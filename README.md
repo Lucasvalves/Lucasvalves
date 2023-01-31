@@ -24,7 +24,7 @@
 ### Bancos de Dados
 
 <div style="display:inline_block" ><br/>
-  <img align="center" alt="mysql" heigth="30" width="40" margin-left:"100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
+  <img align="center" alt="mysql" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
   <img align="center" alt="mysql" heigth="30" width="30"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
 </div>
 
