@@ -39,5 +39,5 @@
 
 - Estou focado em aprender mais sobre Python e MySQL.
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasvalves&show_icons=true&theme=transparent  locale=pt-br )
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasvalves&show_icons=true&theme=transparent)
 
