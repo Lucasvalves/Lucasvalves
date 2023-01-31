@@ -26,12 +26,12 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
 </div>
 
-### 👨🏽‍🎓 Formação
+### Formação
 - Técnico em Desenvolvimento de Sistemas
 - Graduando em Sistemas de Informação.
 
 
-### 📚 Aprendendo atualmente
+### Aprendendo atualmente
 - Estou focado em aprender mais sobre Python e MySQL.
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasvalves&show_icons=true&theme=transparent)
