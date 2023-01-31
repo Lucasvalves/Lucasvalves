@@ -25,7 +25,7 @@
 
 <div style="display:inline_block" ><br/>
   <img align="center" alt="mongoDB" heigth="30" width="40" margin-left: 10px; src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
-  <img align="center" alt="mysql" heigth="30" width="40" margin-left: 100px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
+  <img align="center" alt="mysql" heigth="30" width="40" margin-left="40px"; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
 </div>
 
 
