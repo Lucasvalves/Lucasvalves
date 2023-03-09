@@ -39,7 +39,7 @@
 ##
 ### Aprendendo atualmente
 
-- Estou focado em aprender mais sobre Python e MySQL.
+- Estou focado em aprender mais sobre Python e Server.
 
 
 
