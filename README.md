@@ -39,7 +39,7 @@
 ##
 ### Aprendendo atualmente
 
-- Estou focado em aprender mais sobre Python e SQL Server.
+- Estou focado em aprender mais sobre React e TypeScript.
 
 
 
