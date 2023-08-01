@@ -26,7 +26,7 @@
 ### Formações 🎓
 
 - Técnico em Desenvolvimento de Sistemas
-- Graduando em Sistemas de Informação.
+- Graduando em Sistemas de Informação
 
 
 ##
