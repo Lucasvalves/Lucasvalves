@@ -6,24 +6,6 @@
 
 ##
 ### Tecnologias que utilizo 
-
-
-
-##
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show__icons=true&theme=radical)
-
-##
-### Formações 🎓
-
-- Técnico em Desenvolvimento de Sistemas
-- Graduando em Sistemas de Informação
-
-
-##
-### Aprendendo atualmente
-
-- Estou focado em aprender mais sobre React e TypeScript.
-
 <div  style="display:inline">
 
  <img align="center" alt="javaScript5" heigth="30" width="35"
@@ -55,5 +37,22 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
   <img align="center" alt="mongodb" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
   
 </div>
+
+
+##
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show__icons=true&theme=radical)
+
+##
+### Formações 🎓
+
+- Técnico em Desenvolvimento de Sistemas
+- Graduando em Sistemas de Informação
+
+
+##
+### Aprendendo atualmente
+
+- Estou focado em aprender mais sobre React e TypeScript.
+
 
 
