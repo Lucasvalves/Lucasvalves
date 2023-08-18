@@ -6,7 +6,7 @@
 
 ##
 ### Tecnologias que utilizo 
-<div style="display:inline">
+<div style="display:inline_block">
   <img align="center" alt="javaScript5" heigth="30" width="35"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
 
@@ -15,7 +15,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-pl
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
 
   
-  <img align="center" alt="html5" heigth="25" width="35"           
+  <img align="center" alt="html5" heigth="30" width="35"           
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
   
   
