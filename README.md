@@ -7,8 +7,8 @@
 
 ##
 ### Tecnologias que utilizo 
-<div style="display:flex">
-  <img align="center" alt="javaScript5" heigth="30" width="35" style="margin:50"
+<div style="display:inline_block">
+  <img align="center" alt="javaScript5" heigth="30" width="35"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
 
   <img align="center" alt="typescript" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
@@ -36,6 +36,7 @@
 
 
 ##
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show_icons=true&theme=transparent)
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show_icons=true&theme=transparent)
 ##
 ### Formações 🎓
