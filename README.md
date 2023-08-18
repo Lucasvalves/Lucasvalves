@@ -10,7 +10,7 @@
 <div style="display:inline_block">
   <img align="center" alt="javaScript5" heigth="30" width="35"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
-<span>
+<span style="margin:30">
   <img align="center" alt="typescript" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
   <span/>
   <img align="center" alt="html5" heigth="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
