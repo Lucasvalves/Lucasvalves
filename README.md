@@ -18,8 +18,8 @@
   
   
   <img align="center" alt="css" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
+
   
-  <div></div>
   <img align="center" alt="react" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
   <img align="center"  alt="nodejs" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
