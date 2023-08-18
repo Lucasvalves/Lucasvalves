@@ -6,9 +6,8 @@
 
 ##
 ### Tecnologias que utilizo 
-<div  style="display:inline-block">
-      <img align="center"  alt="nodejs" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
-  
+<div  style="display:inline">
+
  <img align="center" alt="javaScript5" heigth="30" width="35"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
 
