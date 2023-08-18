@@ -12,7 +12,7 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
 
   
-  <img align="center" alt="typescript" heigth="40" width="35" 
+  <img align="center" alt="typescript" heigth="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
 
   
