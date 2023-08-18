@@ -36,7 +36,7 @@
 
 
 ##
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show_icons=true&theme=transparent)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show__icons=true&theme=radical)
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show_icons=true&theme=transparent)
 ##
