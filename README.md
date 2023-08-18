@@ -7,7 +7,7 @@
 
 ##
 ### Tecnologias que utilizo 
-<div style="display:flex" ><br/>
+<div style="display:flex; gap:"5px;" ><br/>
   <img align="center" alt="javaScript5" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" > 
   
   
