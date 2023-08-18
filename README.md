@@ -1,4 +1,3 @@
-
 ### Olá! Eu sou o Lucas Veloso Alves!👋🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-veloso-alves-70a2a3219/)
@@ -7,7 +6,7 @@
 
 ##
 ### Tecnologias que utilizo 
-<div style="display:inline_block">
+<div style="display:inline">
   <img align="center" alt="javaScript5" heigth="30" width="35"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
 
