@@ -12,7 +12,7 @@
 
 
 ### Tecnologias que utilizo  
-<div  style="display:inline">
+<div  style="display:inline-flex">
    <img align="center" alt="javaScript5" heigth="30" width="35"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
    <img align="center" alt="react" heigth="30" width="35" 
@@ -35,6 +35,7 @@
 
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show__icons=true&theme=cobalthighcontrast)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvalves&layout=compact)
 
 ### Site
