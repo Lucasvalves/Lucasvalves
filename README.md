@@ -4,6 +4,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571996579989)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasvalves98@gmail.com)
 
+##
 ### Formações 🎓
 
 - Técnico em Desenvolvimento de Sistemas
@@ -36,9 +37,8 @@
 </div>
 
 
-##
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show__icons=true&theme=radical)
-![Lucas's Top Langs](https://github-readme-stats.vercel.app/api?username=lucasvalves&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvalves&langs_count=8)
 
 ### Site
 https://lucasvelosodev.com.br/
