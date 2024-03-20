@@ -19,6 +19,7 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
       <img align="center" alt="typescript" heigth="30" width="35" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
+   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
    <img align="center" alt="python" heigth="30" width="35" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
     <img align="center" alt="mysql" heigth="30" width="35" 
