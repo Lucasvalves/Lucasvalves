@@ -34,11 +34,8 @@
 </div>
 
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show__icons=true&theme=cobalthighcontrast)
-<br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvalves&layout=compact)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show__icons=true&theme=cobalthighcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvalves&layout=compact)
+<br>       
 
 ### Site
 https://lucasvelosodev.com.br/
