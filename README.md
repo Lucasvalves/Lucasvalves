@@ -34,7 +34,10 @@
 </div>
 
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvalves&show__icons=true&theme=cobalthighcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvalves&layout=compact)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasvalves&show_icons=true&theme=cobalthighcontrast" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvalves&layout=compact&theme=cobalthighcontrast" />
+</p>
 <br>       
 
 ### Site
