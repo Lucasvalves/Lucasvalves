@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Veloso Alves 👋🏽
+### Olá! Eu sou o Lucas Veloso 👋🏽
 
 Desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados.
 
