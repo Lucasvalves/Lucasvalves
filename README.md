@@ -1,6 +1,6 @@
-### Olá! Eu sou o Lucas Veloso 👋🏽
+### Hello! I'm Lucas Veloso 👋🏽
 
-Desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados.
+Developer passionate about technology, always seeking new challenges and learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvelosoalves/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571996579989)
@@ -8,14 +8,14 @@ Desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e apr
 
 ---
 
-### 🎓 Formação
+### 🎓 Education
 
-- Técnico em Desenvolvimento de Sistemas  
-- Graduando em Sistemas de Informação
+- Systems Development Technician  
+- Undergraduate in Information Systems  
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+### 🛠️ Technologies I use
 
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" />
@@ -40,12 +40,12 @@ Desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e apr
 
 ---
 
-### 🌐 Meu site
+### 🌐 My Website
 
 🔗 [lucasvelosodev.com.br](https://lucasvelosodev.com.br/)
 
 ---
 
-### 🚀 Atualmente aprendendo
+### 🚀 Currently Learning
 
-- Aprofundando meus conhecimentos em **React**, **Node** e **TypeScript**
+- Deepening my knowledge in **React**, **Node**, and **TypeScript**
