@@ -31,15 +31,6 @@ Developer passionate about technology, always seeking new challenges and learnin
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasvalves&show_icons=true&theme=cobalthighcontrast" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvalves&layout=compact&theme=cobalthighcontrast" />
-</p>
-
----
-
 ### 🌐 My Website
 
 🔗 [lucasvelosodev.com.br](https://lucasvelosodev.com.br/)
